@@ -2,7 +2,7 @@
   "name": "webpack-configuration",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://dimangis.github.io/React",
+  "homepage": "https://dimangis.github.io/STM-Labs-app",
   "main": "index.js",
   "scripts": {
     "deploy": "npm run build && gh-pages -d build",
